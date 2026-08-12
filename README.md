@@ -92,6 +92,6 @@ Bu repository içerisinde ayrı bir lisans dosyası bulunmuyorsa, kodu yeniden d
 
 ## 👨‍💻 Geliştirici
 
-**Ebubekir Baştama**
+**Ebubekir Bastama**
 
 GitHub: https://github.com/ebubekirbastama
